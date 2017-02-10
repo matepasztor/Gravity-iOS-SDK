@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>--company-id</key>
+	<string>com.gravityrd</string>
+	<key>--project-company</key>
+	<string>Gravity R&amp;D</string>
+	<key>--project-name</key>
+	<string>GravityClient</string>
+	<key>--templates</key>
+	<string>~/.appledoc</string>
+	<key>--keep-intermediate-files</key>
+	<true/>
+	<key>--output</key>
+	<string>./doc</string>
+</dict>
+</plist>
